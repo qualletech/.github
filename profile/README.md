@@ -11,3 +11,5 @@ Jellyfish are creatures known for their ability to go with the flow, adapt to th
 Just like the jellyfish, we believe in the importance of adaptability and freedom in the pursuit of success. Moreover, 'Qualle' reflects our commitment to supporting passion projects and creative endeavors.
 
 We want to facilitate a sense of ease and fluidity in everything we do, allowing our clients to pursue their passions with confidence and enthusiasm. Ultimately, the name 'Qualle' embodies our mission to make people's lives easier, foster creativity, and promote a sense of flow in both work and life.
+
+[Visit our website for more details on current and previous projects, and ways to collaborate!](https://qualletech.com)
