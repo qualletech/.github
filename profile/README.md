@@ -1,15 +1,18 @@
-# Qualle Tech
+# Qualle Tech by [Vik Wedel](https://github.com/vik-wed)
 
 ### Qualle
 /kwɑːl.i/ quall-e
 jellyfish
 
-'Qualle' the german word for jellyfish, embodies the essence of what we strive to achieve in our work.
+'Qualle' the german word for jellyfish, perfectly represents what I strive to achieve with my projects.
 
-Jellyfish are creatures known for their ability to go with the flow, adapt to their surroundings, and navigate the ocean freely. This symbolism resonates deeply with us as we aim to create products and solutions that empower individuals and businesses to navigate their digital landscape effortlessly.
+Jellyfish are known for their adaptability, resilience and fluidity. Inspired by this symbolism I aim to create products and solutions that empower you to navigate your digital landscape effortlessly, achieving success in a flow-like state.
 
-Just like the jellyfish, we believe in the importance of adaptability and freedom in the pursuit of success. Moreover, 'Qualle' reflects our commitment to supporting passion projects and creative endeavors.
+___
+### Find Qualle Tech on the Web
 
-We want to facilitate a sense of ease and fluidity in everything we do, allowing our clients to pursue their passions with confidence and enthusiasm. Ultimately, the name 'Qualle' embodies our mission to make people's lives easier, foster creativity, and promote a sense of flow in both work and life.
+<a href="https://qualletech.com/" target="__blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" ></a>
+<a href="https://www.linkedin.com/company/qualle-tech/" target="__blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" ></a>
+<a href="https://www.instagram.com/qualletech" target="__blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 
-<a href="https://qualletech.com" target="__blank">Visit our website for more details on current and previous projects, and ways to collaborate!</a>
+
